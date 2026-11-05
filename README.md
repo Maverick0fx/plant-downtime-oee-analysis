@@ -8,6 +8,27 @@ The objective was to evaluate machine efficiency, identify production shortfalls
 
 The analysis involved inspecting the dataset in Excel, identifying data quality issues, developing operational KPIs, and building three interactive Tableau dashboards to uncover performance gaps and provide actionable business recommendations.
 
+## Tableau Dashboards
+
+### 01. Plant Performance Overview
+
+![Plant Performance Overview](Dashboard/01-plant-performance-overview.png)
+
+This dashboard provides an overview of plant production performance, including OEE by production line, production trends, actual versus expected production by shift, and OEE by machine.
+
+### 02. Machine Efficiency Overview
+
+![Machine Efficiency Overview](Dashboard/02-machine-efficiency-overview.png)
+
+This dashboard evaluates machine-level efficiency using actual versus expected production, downtime, production shortfall, and Availability, Performance, and Quality metrics.
+
+### 03. Production Quality & Performance Analysis
+
+![Production Quality and Performance Analysis](Dashboard/03-production-quality-performance.png)
+
+This dashboard examines product rejection rates, top and bottom machine-product combinations, energy consumption by machine, and a machine performance summary.
+
+
 ## Key Performance Indicators (KPIs)
 
 The analysis focused on the following KPIs:
