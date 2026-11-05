@@ -1,0 +1,7 @@
+# Dataset
+
+This folder contains the cleaned production dataset used for the Meridian Steelworks OEE Analysis.
+
+**File:** meridian_production_cleaned.xlsx
+
+The dataset contains production records covering machine operations, production output, downtime, rejected units, and energy consumption.
