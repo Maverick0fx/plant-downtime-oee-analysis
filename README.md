@@ -16,19 +16,21 @@ This folder contains the three interactive dashboards developed for the Meridian
 
 ## 01. Machine Performance Overview
 
-![Machine Performance Overview](01-machine-performance-overview.png)
+![Machine Performance Overview](Dashboard/01-plant-performance-overview.png)
 
 This dashboard presents overall plant performance, including OEE by production line, production trends by date, actual versus expected production by shift, and OEE by machine.
 
 ## 02. Machine Efficiency Overview
 
-![Machine Efficiency Overview](02-machine-efficiency-overview.png)
+
+![Machine Efficiency Overview](Dashboard/02-machine-efficiency-overview.png)
 
 This dashboard evaluates machine efficiency using OEE, Availability, Performance, Quality, actual versus expected production, downtime by machine, and production shortfall.
 
 ## 03. Production Quality & Performance Analysis
 
-![Production Quality & Performance Analysis](03-production-quality-and-performance-analysis.png)
+
+![Production Quality & Performance Analysis](Dashboard/03-production-quality-performance-analysis.png)
 
 This dashboard examines rejection rates across machine-product combinations, highlights the top and bottom 10 combinations by rejection rate, compares energy consumption by machine, and presents a machine performance summary.
 
